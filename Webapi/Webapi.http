@@ -1,0 +1,9 @@
+@Webapi_HostAddress = http://localhost:5295
+
+POST {{Webapi_HostAddress}}/VPHandler.ashx
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+
+genes=&keywords=cancer
+
+###

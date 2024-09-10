@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Initdb": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
